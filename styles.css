@@ -1,0 +1,39 @@
+a[href*="wildberries"] {
+  display: block;
+  background-color: #785BEB;
+  border: 1px solid #E9667E;
+  color: #FFF8E6 !important;
+  width: 320px;
+  text-align: center;
+  padding: 15px 20px;
+  text-decoration: none !important;
+  border-radius: 6px;
+  font-weight: 500;
+  margin: 10px 0 0 10px;
+  transition: background-color 0.3s ease;
+}
+
+a[href*="wildberries"]:hover {
+  background-color: #E9667E;
+  color: #FFF8E6 !important;
+}
+
+a[href*="ozon"] {
+  display: block;
+  background-color: #785BEB;
+  border: 1px solid #E9667E;
+  color: #FFF8E6 !important;
+  width: 320px;
+  text-align: center;
+  padding: 15px 20px;
+  text-decoration: none !important;
+  border-radius: 6px;
+  font-weight: 500;
+  margin: 10px 0 10px 10px;
+  transition: background-color 0.3s ease;
+}
+
+a[href*="ozon"]:hover {
+  background-color: #E9667E;
+  color: #FFF8E6 !important;
+}
